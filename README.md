@@ -61,7 +61,7 @@ The instructions for this mini project are divided into the following subsection
 
 1. Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBD 
 
-![ERD](Crowdfunding ERD.png)
+![ERD](Crowdfunding_ERD.png)
 
 3. Use the information from the ERD to create a table schema for each CSV file.
 **Note: Remember to specify the data types, primary keys, foreign keys, and other constraints.
