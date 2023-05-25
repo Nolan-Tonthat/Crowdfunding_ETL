@@ -74,8 +74,8 @@ The instructions for this mini project are divided into the following subsection
 
 
 ## Student Comments
-As partners, the both of us worked together to complete the Category and Subcategory DataFrames together.  We then split the work for the remaining DataFrames and the Crowdfunding Database.  
-Issues arose when getting the branch commits to work properly which is why you may see only one of us commiting and making changes.
+As partners, we worked together to complete the Category and Subcategory DataFrames together.  We then split the work for the remaining DataFrames and the Crowdfunding Database.  
+Issues arose when getting the branch commits to work properly which is why you may see only one of us committing and making changes.
 
 
 
